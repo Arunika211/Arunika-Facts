@@ -1,0 +1,17 @@
+# Konfigurasi rahasia
+.streamlit/secrets.toml
+
+# File konfigurasi
+config.ini
+
+# Data sensor dan aktivitas
+data/*.json
+
+# Model YOLO 
+# models/*.pt
+
+# Virtual Environment
+myenv
+
+# Test File
+test
