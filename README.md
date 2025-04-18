@@ -24,8 +24,8 @@ FACTS adalah sistem monitoring berbasis IoT untuk memantau kondisi kandang terna
 
 1. Clone repositori ini
 ```bash
-git clone https://github.com/username/facts-monitoring.git
-cd facts-monitoring
+git clone https://github.com/Arunika211/Arunika-Facts.git
+cd Arunika-Fact
 ```
 
 2. Instal semua dependensi
@@ -184,7 +184,3 @@ Data sensor juga dikirim ke platform Ubidots untuk visualisasi dan analisis jara
 - Script telah dioptimalkan untuk menggunakan parameter `use_container_width=True` sebagai pengganti `use_column_width` yang sudah tidak digunakan lagi di Streamlit terbaru.
 - ESP32 hanya menggunakan `sensor.py`, sedangkan `send-sensor.py` digunakan untuk pengujian pada PC.
 - Pastikan untuk memeriksa dokumentasi terbaru pada [Streamlit](https://docs.streamlit.io/) jika terjadi perubahan API.
-
-## Kontributor
-
-- [Nama Anda] (https://github.com/username) 
